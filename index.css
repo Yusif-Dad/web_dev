@@ -1,0 +1,37 @@
+body{
+	margin: 0;
+	padding: 0;
+	background: gray;
+}
+.image{
+	width: 30%;
+	height: 60vh;
+}
+.Yusif{
+	width: 25%;
+	height: 54vh;
+}
+.ab{
+	width: 30%;
+	height: 50vh;
+}
+.vc{
+	width: 30%;
+	height: 50vh;
+
+}
+.tt{
+	width: 30%;
+	height: 45vh;
+}
+.rr{
+	width: 30%;
+	height: 45vh;
+	margin-top: 25%;
+}
+
+.fieldset{
+	text-align: center;
+	width: 15%;
+	height: 25vh;
+}

@@ -1,0 +1,23 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background: blue;
+}
+
+form{
+	background: white;
+	width: 30%;
+	height: 70vh;
+	border-radius: 10%;
+}
+
+h1{
+	color: white;
+	text-transform: none;
+}
+.new-application{
+	border-radius: 2px;
+	border-color: white;
+}
